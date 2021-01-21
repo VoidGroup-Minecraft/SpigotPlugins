@@ -1,6 +1,29 @@
-### JAVA BUILD DIRECTORY ###
-build/***
-### JAVA GRADLE CACHE ###
-.gradle/***
-### INTELLIJ IDEA DATA ###
-.idea/***
+### JAVA COMPILED CLASS FILES ###
+***.class
+
+### JAVA COMPILED PACKAGE FILES ###
+***.jar
+***.war
+***.nar
+***.ear
+***.zip
+***.tar.gz
+***.rar
+
+### JVM CRASH LOGS ###
+hs_err_pid*
+
+### GRADLE DATA ###
+.gradle
+
+### GRADLE BUILD DIRECTORY ###
+build
+
+### GRADLE GUI CONFIG ###
+gradle-app.setting
+
+### IDEA DATA ###
+.idea
+
+### ! GRADLE WRAPPER ###
+!gradle/wrapper
