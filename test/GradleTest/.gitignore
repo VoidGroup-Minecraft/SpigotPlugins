@@ -1,0 +1,6 @@
+### JAVA BUILD DIRECTORY ###
+build/***
+### JAVA GRADLE CACHE ###
+.gradle/***
+### INTELLIJ IDEA DATA ###
+.idea/***
